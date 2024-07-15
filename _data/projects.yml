@@ -8,13 +8,13 @@
 # Graph Convolution for Capturing Well Interference in Production Forecasting
 - project: Graph Convolution for Capturing Well Interference in Production Forecasting
   duration: Dec. 2022 &mdash; Present
-  # url: "#"
+  url: https://ziming-zx.github.io/2023-10-26-GraphSAGE/
   description: <ul class="resume-item-list"><li>Developed novel ST-GraphSAGE model for generalizing unseen nodes and computation of evolving graphs.</li><li>Incorporated a GRU encoder-decoder model to capture cross-time neighborhood information effectively.</li></ul>
 
 # Enhanced RNN-Based Production Forecasting for Shale Gas Reservoirs
 - project: Enhanced RNN-Based Production Forecasting for Shale Gas Reservoirs
   duration: Sep. 2021 &mdash; April 2023
-  # url: "#"
+  url: https://ziming-zx.github.io/2023-09-30-RUF/
   description: <ul class="resume-item-list"><li>Developed novel MRA (Masked Recurrent Alignment) architecture, enabling inputs sequence with varied lengths.</li><li>Proposed novel RUF (Recursively Updated Forecasting) architecture, enabling real-time updates with production data.</li><li>Generated multi-stage hydraulic fracture synthetic dataset using DFNs and geomechanical simulation.</li></ul>
 
 # Impacts of Meshing and Discretization on DPDK Flow Simulation
